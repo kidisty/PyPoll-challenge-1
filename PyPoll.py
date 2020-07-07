@@ -11,7 +11,7 @@ file_to_output = os.path.join("analysis", "election_analysis.txt")
 # Total Vote Counter
 total_votes = 0
 
-# Candidate Options and Vote Counters
+# Candidate Options and Vote Counter
 candidate_options = []
 candidate_votes = {}
 
